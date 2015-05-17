@@ -1,0 +1,45 @@
+.footer {
+  margin-top: 30pt;
+  padding: 20px 0;
+  color: #999;
+  text-align: center;
+  background-color: #f9f9f9;
+  border-top: 1px solid #e5e5e5;
+}
+.bs-callout {
+  padding: 3pt 10pt;
+  margin: 20pt 20pt 20pt 0pt;
+  border: 1pt solid #eee;
+  border-left-width: 5pt;
+  border-radius: 3pt;
+  color: #777;
+}
+.TableEntry {
+  margin: 2pt;
+  padding: 6pt;
+  border: 2pt solid transparent;
+  border-radius: 5pt;
+  width: 160pt;
+  height: 30pt;
+  font-size: 10.5pt;
+}
+.Group0 {
+  color: #a94442;
+  background-color: #f2dede;
+  border-color:#ebccd1;
+}
+.Group1 {
+  color: #3c763d;
+  background-color: #dff0d8;
+  border-color:#d6e9c6;
+}
+.Group2 {
+  color :#31708f;
+  background-color :#d9edf7;
+  border-color :#bce8f1;
+}
+.Group3 {
+  color :#8a6d3b;
+  background-color :#fcf8e3;
+  border-color :#faebcc;
+}
